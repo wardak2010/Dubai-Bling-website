@@ -31,8 +31,10 @@ border-radius: 10%;
       }
 
 body {
+cursor: url(diamond\ 2\ cursor.png), auto;
 background-color: rgb(201, 168, 206);
 color: rgb(58, 2, 58)
+
 }
 
 h1 {
@@ -45,3 +47,12 @@ h2 {
 font-size: 35px
 }
 
+
+a:hover {
+cursor: url(diamond\ 2\ cursor.png), auto;
+text-shadow: 3px 3px 3px #111;
+}
+
+a:visited {
+color: rgb(249, 249, 249);
+}
