@@ -32,11 +32,11 @@ border-radius: 10%;
 
 body {
 background-color: rgb(201, 168, 206);
-color: cornsilk
+color: rgb(58, 2, 58)
 }
 
 h1 {
-text-shadow: 5px 5px 5px rgb(68, 8, 68);
+text-shadow: 5px 5px 5px rgb(255, 251, 255);
 font-size: 45px;
 }
 
